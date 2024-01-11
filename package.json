@@ -1,0 +1,12 @@
+{
+  "name": "atomicmarket-get-row-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "proton-asc ./gettablerow/gettablerow.contract.ts"
+  },
+  "devDependencies": {
+    "proton-tsc": "0.3.58",
+    "typescript": "5.3.3"
+  }
+}
